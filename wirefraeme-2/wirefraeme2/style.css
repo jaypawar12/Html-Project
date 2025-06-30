@@ -1,0 +1,51 @@
+a {
+	font-family:Arial Black;
+	font-size:25px;
+	text-decoration:none;
+	color:Black;
+}
+
+body {
+	background-color: rgb(250, 50, 50);
+}
+
+h2 {
+	font-weight:bold;
+}
+
+.gray {
+	color:gray;
+}
+
+.green {
+	color:green;
+}
+
+.aqua {
+	color:aqua;
+}
+
+.pink {
+	color:#d401f9;
+}
+
+.yellow {
+	color:yellow;
+}
+
+.white {
+	color:rgb(240, 240, 240);
+}
+
+.tfoot {
+	background-color:Black;
+}
+
+.button {
+	background-color: brown;
+}
+
+.button1 {
+	background-color: goldenrod;
+	font-size: larger;
+}
